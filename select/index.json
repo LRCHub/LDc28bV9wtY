@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "空奏ジャンプ",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2026-01-13T17:31:11.421388Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "空奏ジャンプ",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_空奏ジャンプ_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
